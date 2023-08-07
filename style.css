@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.con{width: 1000px;
+margin: auto;}
+.header{
+    padding: 5px,0px;
+
+}
+.header img h2{padding-top: 10px;}
+.left{float: left;}
+.right{float: right;}
+.clear{clear: both;}
+nav{background-color:rgb(255, 123, 0) ;
+line-height: 45px; margin-top: 20px;}
+ul{text-decoration: none; }
+ 
+li{list-style: none; display: inline;}
+.logo{color: grey;}
+.logo h2{font-size: 30px;color:rgb(255, 123, 0) ;text-decoration: underline 1PX dashed;}
+.logo {color:rgb(26, 115, 167) ;}
+nav li{padding: 15px;}
+a {color: white;text-decoration: none;font-size:17px;}
+.bg1{background-color: rgb(26, 115, 167);margin-top: 2px;padding: 15px;}
+.bg1 img{width: 100%;border-radius: 10px;}
+.bg2{background-color: white;padding: 20px 250px;border-radius: 25px;}
+.paragraph{margin: 20px 0px;padding:10px 30px;text-align: left;}
+.box{width: 28%;}
+.mid{margin:0px 80px}
+.box h2{text-decoration:underline dotted 3px;margin: 30px 0px;}
+.box img{border: 2px blue solid;width:100%}
+img{padding: 3px;margin-bottom: 20px;}
+.box p{opacity: 70%;text-align: left;overflow:visible;}
+section{
+    margin-bottom: 60px;
+}
+.box2{width: 20%;margin: 0px 24px;}
+.box80{width: 30%; border:1px solid rgb(66, 66, 66) ;padding: 1px;}
+.box2 h3{margin: 35px 0px;text-decoration: underline 1.5px dotted;}
+hr{margin-bottom: 10px;}
+footer{background-color: rgb(26, 115, 167) ; line-height: 50px;}
+input{stroke: blue;border-radius: 1000px;padding: 10px;border: 1px }
+button{border-radius: 1000px;padding: 10px;color:;background-color: rgb(255, 255, 255);border: 1px black solid;}
+
